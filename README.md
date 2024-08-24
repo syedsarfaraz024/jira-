@@ -1,3 +1,3 @@
 # jira-
-this my  git repo 
-sarfaraz
+this my  git repo,
+authour : sarfaraz
